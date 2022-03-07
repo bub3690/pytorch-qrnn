@@ -1,3 +1,6 @@
+해당 라이브러리가 autograd를 쓰고 있어서, tensor로 전부 바꿔주려한다 싯팔
+
+
 # Quasi-Recurrent Neural Network (QRNN) for PyTorch
 
 Updated to support multi-GPU environments via `DataParallel` - see the the `multigpu_dataparallel.py` example.
